@@ -4,6 +4,7 @@
 #include<algorithm>
 using namespace std;
 
+//k¹øÂ° ¼ö
 vector<int> solution(vector<int> a, vector<vector<int>> b)
 {
     vector<int> an;
